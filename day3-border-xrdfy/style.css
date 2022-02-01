@@ -1,0 +1,47 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.box1 {
+  max-width: 1000px;
+  min-width: 400px;
+  height: 1000px;
+  background-color: aqua;
+  border: solid blue;
+  border-width: 5px;
+  text-align: center;
+  padding: 2rem;
+  margin: 1px;
+}
+.box2 {
+  width: 50%;
+  height: 50%;
+  background-color: #fff;
+  border: solid chocolate;
+  margin: 25%;
+  border-width: 2%;
+  padding: inherit;
+  border-radius: 50px;
+}
+.boxc {
+  min-width: 70%;
+  height: 50%;
+  background-color: yellow;
+  margin: 20%;
+}
+.Sub {
+  background-color: lightgreen;
+  border: solid darkgreen;
+  margin: 40%;
+  border-radius: 20px;
+}
+.box3 {
+  width: 50%;
+  height: 50%;
+  background-color: darkgray;
+  border: darkmagenta;
+  text-align: center;
+  padding: 0;
+}

@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: darkslateblue;
+  border: solid red 1px;
+}
+
+.im {
+  background-size: 50% 50%;
+}
+.err {
+  display: grid;
+  align-items: center;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+.fon {
+  font-size: 3rem;
+}
+.fon2 {
+  font-size: 2rem;
+}
+.tab {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.f1 {
+  font-size: 0.8rem;
+}

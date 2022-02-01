@@ -1,0 +1,22 @@
+h1 {
+  font-size: 3rem;
+  background-color: lightgreen;
+  border: solid darkmagenta 3px;
+}
+.box1 {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+}
+.box2 {
+  width: 50%;
+  height: 50%;
+  background-color: wheat;
+  font-size: 2rem;
+}
+.box3 {
+  width: 100vw;
+  height: 50vh;
+  background-color: blue;
+  font-size: 5rem;
+}

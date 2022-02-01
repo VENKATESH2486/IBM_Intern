@@ -1,0 +1,36 @@
+* {
+  color: gold;
+}
+h2 {
+  color: rgb(107, 167, 167);
+}
+#tan {
+  color: red;
+}
+.one {
+  color: violet;
+}
+
+div > p {
+  color: indigo;
+}
+p + section {
+  color: brown;
+}
+p ~ section {
+  color: green;
+}
+.test:hover {
+  color: lightgoldenrodyellow;
+}
+.testact:active {
+  color: rgb(17, 17, 6);
+}
+
+input:focus {
+  background-color: lightslategrey;
+}
+
+h1::before {
+  content: "HLO WORLD  ";
+}
