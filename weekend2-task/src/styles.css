@@ -1,0 +1,36 @@
+* {
+  font-family: sans-serif;
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.container {
+  width: 80%;
+  margin-left: 10%;
+  background: rgb(150, 125, 125);
+  height: 100%;
+  min-height: 100vh;
+}
+#todotext {
+  color: rgb(67, 100, 17);
+  margin: 0%;
+  text-align: center;
+}
+.flex1 {
+  display: flex;
+  width: 80%;
+  min-height: 32px;
+  margin-left: 10%;
+  justify-content: space-between;
+}
+.todolist {
+  color: rgb(0, 0, 0);
+  margin-left: 5%;
+}
+li {
+  padding: 10px;
+  justify-content: space-between;
+}
+.ipbox {
+  min-width: 99%;
+}
